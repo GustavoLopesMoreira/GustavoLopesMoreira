@@ -1,14 +1,10 @@
-<h1 align="left">Olá 👋</h1>
-
-###
-
-<h2 align="left">Meu nome é Gustavo Lopes</h2>
+<h1 align="left">Gustavo Lopes</h2>
 
 ###
 
 <br clear="both">
 
-<p align="left">Estudante de Ciência da Programação na Universidade Veiga de Almeida (presencial), atualmente cursando o 3º período. Tenho experiência tanto em front-end quanto em back-end, com maior interesse e afinidade pelo desenvolvimento back-end, principalmente utilizando as linguagens C e C++.<br><br>Meu foco é escrever código limpo, eficiente e bem estruturado, sempre buscando boas práticas e aprendizado contínuo. No front-end, tenho domínio dos principais conceitos e ferramentas, mas é na lógica, estrutura de dados e manipulação de memória características fortes de C e C++ que realmente está meu foco.</p>
+<p align="left">Neste perfil você encontrará projetos pessoais desenvolvidos com foco no aprendizado e na evolução técnica. Abaixo, apresento uma lista das linguagens e tecnologias que domino e utilizo no desenvolvimento dessas aplicações.</p>
 
 ###
 
