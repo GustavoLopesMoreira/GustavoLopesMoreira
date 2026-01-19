@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">Estudante de Ciências da Computação (3º período), presencial, na Universidade Veiga de Almeida .</p>
+<p align="left">Graduando em Ciência da Computação (3º período) | Universidade Veiga de Almeida (Presencial).</p>
 
 <p align="left">Neste perfil você encontrará projetos pessoais desenvolvidos com foco no aprendizado e na evolução técnica. Abaixo, apresento uma lista das linguagens e tecnologias que domino e utilizo no desenvolvimento dessas aplicações.</p>
 
